@@ -1,4 +1,12 @@
+
+
 # Segment and Track Anything (SAM-Track)
+
+Windows install: 
+1) Get Visual Studio Build tools: https://stackoverflow.com/questions/64261546/how-to-solve-error-microsoft-visual-c-14-0-or-greater-is-required-when-inst
+2) Get nVidia CUDA toolkit for your torch cuda version: https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64
+3) Get a full python install with include and libs folders. 
+
 **Online Demo:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R10N70AJaslzADFqb-a5OihYkllWEVxB?usp=sharing)
 **Technical Report**: [![](https://img.shields.io/badge/Report-arXiv:2305.06558-green)](https://arxiv.org/abs/2305.06558)
 
